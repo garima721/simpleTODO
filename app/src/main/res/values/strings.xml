@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleTODO</string>
+    <string name="EnterNewItemLabel">Enter A New Item</string>
+    <string name="BtnSubmit">Submit</string>
+    <string name="edit_lbl">Edit</string>
+    <string name="EditItemBelowLbl">Edit Item Below:</string>
+    <string name="SaveLbl">Save</string>
+</resources>
